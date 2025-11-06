@@ -2,7 +2,7 @@ import { faLinkedin, faGithub, faYoutube } from "@fortawesome/free-brands-svg-ic
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const socialIcons = [
-  { icon: faLinkedin, link: "https://www.linkedin.com/in/3bdulra7manamir" },
+  { icon: faLinkedin, link: "https://www.linkedin.com/in/shadow-1Dev/" },
   { icon: faGithub, link: "https://github.com/Shadow-1Dev" },
   { icon: faYoutube, link: "https://www.youtube.com/@ShadowHQ-Modder" },
   // { icon: faFacebookF, link: "#!" },
