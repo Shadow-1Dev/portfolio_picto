@@ -6,7 +6,7 @@ import card4 from "../../assets/images/portfolio-images/card-4.png";
 import card5 from "../../assets/images/portfolio-images/card-5.png";
 import card6 from "../../assets/images/portfolio-images/card-6.png";
 
-import card7 from "../../assets/images/portfolio-images/card-7.png";
+// import card7 from "../../assets/images/portfolio-images/card-7.png";
 // import card8 from "../../assets/images/portfolio-images/card-8.png";
 import card9 from "../../assets/images/portfolio-images/card-9.png";
 
@@ -67,24 +67,6 @@ const projectData = [
   },
   {
     id: 7,
-    image: card7,
-    category: "Mobile App",
-    title: "Test Drive (Customer)",
-    description:
-      "Test Drive is your ultimate platform to experience cars before making a purchase decision. With just a few taps, you can book any available car, and the car owner will bring it directly to your location so you can take it for a real-world test drive. Our goal is to help users make smarter car-buying choices and ensure a smooth and safe driving experience before committing to a purchase.",
-    link: "https://play.google.com/store/apps/details?id=com.testdrive.onebillion",
-  },
-  // {
-  //   id: 8,
-  //   image: card8,
-  //   category: "Mobile App",
-  //   title: "Manzoma",
-  //   description:
-  //     "A workflow management tool that helps teams and individuals organize tasks, communicate effectively, and boost productivity.",
-  //   link: "https://apps.apple.com/us/app/manzoma/id6746369002",
-  // },
-  {
-    id: 9,
     image: card9,
     category: "Mobile App",
     title: "Ghosn Coffee",
