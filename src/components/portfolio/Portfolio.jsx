@@ -9,6 +9,7 @@ import card6 from "../../assets/images/portfolio-images/card-6.png";
 // import card7 from "../../assets/images/portfolio-images/card-7.png";
 // import card8 from "../../assets/images/portfolio-images/card-8.png";
 import card9 from "../../assets/images/portfolio-images/card-9.png";
+import card10 from "../../assets/images/portfolio-images/card-10.png";
 
 const projectData = [
   {
@@ -73,6 +74,24 @@ const projectData = [
     description:
       "Ghosn Coffee is your trusted destination for premium coffee products. We are committed to providing our customers with the finest coffee experience, combining quality, authenticity, and excellent service. Through our website, you can explore a wide range of coffee products, learn about our latest offers, and shop easily with a smooth and secure checkout. All prices include VAT, with shipping costs calculated at checkout. Our Terms & Conditions and Privacy Policy ensure transparency, so you can shop with confidence. If you ever face any issues, our support team is here to help, and warranty coverage applies according to each product’s terms. At Ghosn Coffee, coffee is more than just a product — it’s a passion. Enjoy authentic flavors that connect tradition with modern quality.",
     link: "https://apps.apple.com/eg/app/ghosn-coffee/id6752111611",
+  },
+  {
+    id: 8,
+    image: card10,
+    category: "Mobile App",
+    title: "Test Drive Customer",
+    description:
+      "A smart car test drive platform that lets users book real vehicles and experience them before making a purchase decision. Enables customers to request a test drive with ease, receive the car at their location, and enjoy a safe, real-world driving experience to make confident buying choices.",
+    link: "https://apps.apple.com/us/app/test-drive/id6754252219",
+  },
+  {
+    id: 9,
+    image: card10,
+    category: "Mobile App",
+    title: "Test Drive Owner",
+    description:
+      "A dedicated app for car owners to manage and fulfill test drive requests from customers. Allows owners to accept bookings, navigate to customer locations, track trip progress, and monitor earnings through a simple and efficient workflow designed for smooth operations.",
+    link: "https://apps.apple.com/us/app/test-drive-owner/id6755828008",
   },
 ];
 
