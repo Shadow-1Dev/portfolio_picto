@@ -39,15 +39,15 @@ const projectData = [
       "A comprehensive healthcare management solution for hospitals, doctors, and patients. Features appointments, medical records, and patient tracking.",
     link: "https://apps.apple.com/us/app/sehtna-%D8%B5%D8%AD%D8%AA%D9%86%D8%A7/id6746358917",
   },
-  {
-    id: 4,
-    image: card4,
-    category: "Mobile App",
-    title: "Added Power",
-    description:
-      "A trusted marketplace for genuine car spare parts from verified suppliers. Provides fast and secure access for car owners and repair specialists.",
-    link: "https://apps.apple.com/sa/app/added-power/id6739585590?uo=2",
-  },
+  // {
+  //   id: 4,
+  //   image: card4,
+  //   category: "Mobile App",
+  //   title: "Added Power",
+  //   description:
+  //     "A trusted marketplace for genuine car spare parts from verified suppliers. Provides fast and secure access for car owners and repair specialists.",
+  //   link: "https://apps.apple.com/sa/app/added-power/id6739585590?uo=2",
+  // },
   {
     id: 5,
     image: card5,
