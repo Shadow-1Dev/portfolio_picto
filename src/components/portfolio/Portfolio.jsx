@@ -49,7 +49,7 @@ const projectData = [
   //   link: "https://apps.apple.com/sa/app/added-power/id6739585590?uo=2",
   // },
   {
-    id: 5,
+    id: 4,
     image: card5,
     category: "Mobile App",
     title: "Rukn Al Aqar",
@@ -58,7 +58,7 @@ const projectData = [
     link: "https://apps.apple.com/us/app/%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1/id6749784605",
   },
   {
-    id: 6,
+    id: 5,
     image: card6,
     category: "Mobile App",
     title: "Manzoma",
@@ -67,7 +67,7 @@ const projectData = [
     link: "https://apps.apple.com/us/app/manzoma/id6746369002",
   },
   {
-    id: 7,
+    id: 6,
     image: card9,
     category: "Mobile App",
     title: "Ghosn Coffee",
@@ -76,7 +76,7 @@ const projectData = [
     link: "https://apps.apple.com/eg/app/ghosn-coffee/id6752111611",
   },
   {
-    id: 8,
+    id: 7,
     image: card10,
     category: "Mobile App",
     title: "Test Drive Customer",
@@ -85,7 +85,7 @@ const projectData = [
     link: "https://apps.apple.com/us/app/test-drive/id6754252219",
   },
   {
-    id: 9,
+    id: 8,
     image: card10,
     category: "Mobile App",
     title: "Test Drive Owner",
