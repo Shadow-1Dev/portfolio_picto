@@ -17,7 +17,7 @@ const Projects = ({ data }) => {
 
         <p
           style={{ lineHeight: "20px" }}
-          className="text-gray-600 text-xs xxs:text-[14px]"
+          className="text-gray-600 text-xs xxs:text-[14px] line-clamp-3"
         >
           {data?.description}
         </p>
