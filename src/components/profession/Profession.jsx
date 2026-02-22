@@ -19,6 +19,12 @@ const rolesData = [
     description:
       "I integrate Firebase services such as authentication, real-time databases, cloud storage, and push notifications to add powerful features to apps.",
   },
+  {
+    id: 4,
+    title: "App Store & Google Play Deployment",
+    description:
+      "I handle the full app publishing process myself, including preparing release builds, store listings, and submitting updates to both Google Play and the Apple App Store.",
+  },
 ];
 
 const Profession = () => {
@@ -31,11 +37,11 @@ const Profession = () => {
         <p className="section-title max-md:text-center">What I do?</p>
         <div className="mt-6 text-[14px]">
           <p className="text-xs sm:text-lg font-normal text-gray-400 mb-4">
-            I specialize in building high-quality Flutter applications with clean code, 
+            I specialize in building high-quality Flutter applications with clean code,
             modern UI, and seamless user experiences across platforms.
           </p>
           <p className="text-xs sm:text-lg font-normal text-gray-400">
-            My work focuses on combining performance, scalability, and engaging 
+            My work focuses on combining performance, scalability, and engaging
             designs to deliver apps that solve real-world problems.
           </p>
         </div>
