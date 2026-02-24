@@ -30,15 +30,15 @@ const projectData = [
       "A platform for athletes and coaches to showcase profiles, promote talent, and connect with clubs and agents. Includes video and photo sharing.",
     link: "https://apps.apple.com/us/app/%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%81-al-haddaf/id6741814021",
   },
-  {
-    id: 3,
-    image: card3,
-    category: "Mobile App",
-    title: "Sehtna",
-    description:
-      "A comprehensive healthcare management solution for hospitals, doctors, and patients. Features appointments, medical records, and patient tracking.",
-    link: "https://apps.apple.com/us/app/sehtna-%D8%B5%D8%AD%D8%AA%D9%86%D8%A7/id6746358917",
-  },
+  // {
+  //   id: 3,
+  //   image: card3,
+  //   category: "Mobile App",
+  //   title: "Sehtna",
+  //   description:
+  //     "A comprehensive healthcare management solution for hospitals, doctors, and patients. Features appointments, medical records, and patient tracking.",
+  //   link: "https://apps.apple.com/us/app/sehtna-%D8%B5%D8%AD%D8%AA%D9%86%D8%A7/id6746358917",
+  // },
   // {
   //   id: 4,
   //   image: card4,
@@ -49,7 +49,7 @@ const projectData = [
   //   link: "https://apps.apple.com/sa/app/added-power/id6739585590?uo=2",
   // },
   {
-    id: 4,
+    id: 3,
     image: card5,
     category: "Mobile App",
     title: "Rukn Al Aqar",
@@ -57,17 +57,17 @@ const projectData = [
       "A smart real estate app for buying, selling, and renting apartments. Delivers a simple, fast, and reliable experience for property needs.",
     link: "https://apps.apple.com/us/app/%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1/id6749784605",
   },
+  // {
+  //   id: 5,
+  //   image: card6,
+  //   category: "Mobile App",
+  //   title: "Manzoma",
+  //   description:
+  //     "A workflow management tool that helps teams and individuals organize tasks, communicate effectively, and boost productivity.",
+  //   link: "https://apps.apple.com/us/app/manzoma/id6746369002",
+  // },
   {
-    id: 5,
-    image: card6,
-    category: "Mobile App",
-    title: "Manzoma",
-    description:
-      "A workflow management tool that helps teams and individuals organize tasks, communicate effectively, and boost productivity.",
-    link: "https://apps.apple.com/us/app/manzoma/id6746369002",
-  },
-  {
-    id: 6,
+    id: 4,
     image: card9,
     category: "Mobile App",
     title: "Ghosn Coffee",
@@ -76,7 +76,7 @@ const projectData = [
     link: "https://apps.apple.com/eg/app/ghosn-coffee/id6752111611",
   },
   {
-    id: 7,
+    id: 5,
     image: card10,
     category: "Mobile App",
     title: "Test Drive Customer",
@@ -85,7 +85,7 @@ const projectData = [
     link: "https://apps.apple.com/us/app/test-drive/id6754252219",
   },
   {
-    id: 8,
+    id: 6,
     image: card10,
     category: "Mobile App",
     title: "Test Drive Owner",
